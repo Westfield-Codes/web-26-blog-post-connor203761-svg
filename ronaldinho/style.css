@@ -4,5 +4,24 @@ p {
       h2 {
     font-family: Lobster, "Open Sans";
   }
+  h1{
+    color:whitesmoke;
+  }
+  #img1{
+    border-style:double; border-width:6px;
+  }
+  #img2{
+    border-style:dashed; border-width:8px;
+  }
+  p{
+    color:#003566;
+  }
+  body {
+  background-image: url("soccerbackground.jpg"); 
+  background-size: cover;
+}
+#posted{
+background-color:whitesmoke;
+}
 
 
