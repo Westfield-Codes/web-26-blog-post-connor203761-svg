@@ -3,25 +3,44 @@ p {
 }
       h2 {
     font-family: Lobster, "Open Sans";
+    color:rgb(248, 185, 185);
+    background-color:#03045e;
   }
   h1{
-    color:whitesmoke;
+    color:#1d3557;
   }
   #img1{
-    border-style:double; border-width:6px;
+    border-style:double; 
+    border-width:12px; 
+    border-color:darkblue;
   }
   #img2{
-    border-style:dashed; border-width:8px;
+    border-style:dashed; 
+    border-width:8px; 
+    border-color:darkblue;
   }
   p{
-    color:#003566;
+    /* color:white; */
+    /* background-color:#5369ac; */
   }
   body {
   background-image: url("soccerbackground.jpg"); 
   background-size: cover;
+  background-color: rgb(0 0 0 / 40%);
 }
 #posted{
 background-color:whitesmoke;
 }
 
-
+article {
+  /* background-color: rgba(245, 245, 245, 0.568); */
+  border-style:solid;
+   border-color:#6c757d;
+    border-width:8px; 
+    background-color:white;
+    color:black;
+}
+#list{
+  color:blanchedalmond;
+background-color: #21003f;
+}
