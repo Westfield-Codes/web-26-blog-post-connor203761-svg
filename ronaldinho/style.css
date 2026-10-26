@@ -38,8 +38,13 @@ article {
     border-width:8px; 
     background-color:white;
     color:black;
+    padding-top: 1rem;
+     padding-bottom: 1rem;
+      padding-left: 1rem;
+       padding-right: 1rem;
 }
 #list{
   color:black;
     font-family: "Times New Roman", Times, serif;
 }
+
